@@ -175,8 +175,10 @@ blockswap: "Blockswap RPC does not track any kind of user information at the bui
   NOWNodes:
     "We do not collect any financial data. Other data may be collected by third parties; we are not responsible for the actions of third parties. We do not collect any Personal data other than the Personal data set out in this Policy: https://nownodes.io/assets/data/privacy-pol.pdf. ",
   Envelop:
-    "We, Envelop, do not collect and/or process any personal data other than publicly available data.  Check out our privacy statement here: https://docs.envelop.is/legal/privacy-policy"	  
-  };
+    "We, Envelop, do not collect and/or process any personal data other than publicly available data.  Check out our privacy statement here: https://docs.envelop.is/legal/privacy-policy",
+	Polkachu:
+		"We’ll never sell or rent your personal info to third parties, and we won’t use your name or company in marketing statements without your permission, either. Full Policy: https://polkachu.com/privacy_policy"
+};
 
 export const extraRpcs = {
   1: {
