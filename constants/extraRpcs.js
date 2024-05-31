@@ -4969,6 +4969,11 @@ export const extraRpcs = {
       "https://asia-southeast.lycanchain.com",
     ],
   },
+  1329: {
+    rpcs: [
+      "https://seievm-rpc.polkachu.com",
+    ],
+  }
 };
 const allExtraRpcs = mergeDeep(llamaNodesRpcs, extraRpcs);
 
